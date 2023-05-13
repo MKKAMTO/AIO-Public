@@ -65,7 +65,7 @@ Quality : {}
 
     # The caption on the uploaded audio file in Telegram
     # Keep it blank for no captions
-    TRACK_TEMPLATE = "{title} - {album} - {artist} - [{quality}]"
+    TRACK_TEMPLATE = "{artist} - {album} - {title} - [{quality}]"
 
     
 
