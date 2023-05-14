@@ -59,8 +59,8 @@ Quality : {}
 🔢 <b>Total Tracks :</b> {totaltracks}
 📀 <b>Total Volumes :</b> {totalvolume}
 💫 <b>Quality :</b> {quality}
-📡 <b>Provider :</b> {provider}
-🔞 <b>Explicit :</b> {explicit}
+📡 <b>Platform :</b> {platform}
+🅴 <b>Explicit :</b> {explicit}
 """
 
     # The caption on the uploaded audio file in Telegram
