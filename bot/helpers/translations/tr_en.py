@@ -59,7 +59,7 @@ Quality : {}
 🔢 <b>Total Tracks :</b> {totaltracks}
 📀 <b>Total Volumes :</b> {totalvolume}
 💫 <b>Quality :</b> {quality}
-📡 <b>Platform :</b> {platform}
+📡 <b>Platform :</b> {provider}
 🅴 <b>Explicit :</b> {explicit}
 ⓖ <b>Genres :</b> {genres}
 """
