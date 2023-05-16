@@ -61,6 +61,7 @@ Quality : {}
 💫 <b>Quality :</b> {quality}
 📡 <b>Platform :</b> {provider}
 🅴 <b>Explicit :</b> {explicit}
+✨️ <b>Genre :</b> {genre}
 """
 
     # The caption on the uploaded audio file in Telegram
