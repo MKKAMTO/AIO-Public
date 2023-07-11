@@ -56,7 +56,7 @@ Quality : {}
 ╭─────⌊ 💽 <b>Album Title :</b> {title}
 ├─• 🗣  <b>Artist :</b> {artist}
 ├─• 📆 <b>Release Date :</b> {date}
-├─• 🎧 <b>Total Tracks :</b> {totaltracks
+├─• 🎧 <b>Total Tracks :</b> {totaltracks}
 ├─• ✅ <b>Quality :</b> {quality}
 ├─• 📡 <b>Platform :</b> {provider}
 ├─• 🅴 <b>Explicit :</b> {explicit}
