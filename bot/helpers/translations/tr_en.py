@@ -53,14 +53,14 @@ Quality : {}
 #
 #----------------
     ALBUM_TEMPLATE = """
-╭─────⌊ 💽 <b>Album Title :</b> {title}
-├─• 🗣  <b>Artist :</b> {artist}
-├─• 📆 <b>Release Date :</b> {date}
-├─• 🎧 <b>Total Tracks :</b> {totaltracks}
-├─• ✅ <b>Quality :</b> {quality}
-├─• 📡 <b>Platform :</b> {provider}
-├─• 🅴 <b>Explicit :</b> {explicit}
-╰─────⌊ ✨️ <b>Genre :</b> {genre}
+╭─────⌊ 💽 ᴬˡᵇᵘᵐ ᵀⁱᵗˡᵉ : 
+├─• 🗣  ᴬʳᵗⁱˢᵗ : <b>Artist :</b> {artist}
+├─• 📆 ᴿᵉˡᵉᵃˢᵉ ᴰᵃᵗᵉ : <b>Release Date :</b> {date}
+├─• 🎧 ᵀᵒᵗᵃˡ ᵀʳᵃᶜᵏˢ : </b> {totaltracks}
+├─• ✅ Qᵘᵃˡⁱᵗʸ : <b>Quality :</b> {quality}
+├─• 📡 ᴾˡᵃᵗᶠᵒʳᵐ : <b>Platform :</b> {provider}
+├─• 🅴 ᴱˣᵖˡⁱᶜⁱᵗ : <b>Explicit :</b> {explicit}
+╰─────⌊ ✨️ ᴳᵉⁿʳᵉ : <b>Genre :</b> {genre}
 """
 
     # The caption on the uploaded audio file in Telegram
