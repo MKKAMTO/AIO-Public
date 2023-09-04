@@ -69,7 +69,8 @@ Quality : {}
 │
 ├─• 🌟 𝙶𝚎𝚗𝚛𝚎: </b> {genre}
 │
-╰─────⌊ @aiomusicdlbot ⌉
+╰─────⌊ ❤️ <b>Requested by :</b> {}"
+
 """
 
     # The caption on the uploaded audio file in Telegram
