@@ -67,10 +67,11 @@ Quality : {}
 │
 ├─• 🅴 𝙴𝚡𝚙𝚕𝚒𝚌𝚒𝚝: </b> {explicit}
 │
-├─• 🌟 𝙶𝚎𝚗𝚛𝚎: </b> {genre}
-│
-╰─────⌊ ❤️ Requested by : </b> {}"
+╰─────⌊🌟 𝙶𝚎𝚗𝚛𝚎: </b> {genre}
 
+
+USER_MENTION_ALBUM = "❤️ <b>Requested by :</b> {}"
+USER_MENTION_TRACK = "Requested by {}"
 """
 
     # The caption on the uploaded audio file in Telegram
