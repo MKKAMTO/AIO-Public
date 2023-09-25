@@ -50,7 +50,9 @@ Quality : {}
 #----------------
 #
 # MUSIC DETAILS - TELEGRAM
-#
+# 
+      USER_MENTION_ALBUM = "<b>ᴅᴏᴡɴʟᴏᴀᴅ ʙʏ :</b> {}"
+      USER_MENTION_TRACK = "<b>ᴅᴏᴡɴʟᴏᴀᴅ ʙʏ <b>{}"
 #----------------
     ALBUM_TEMPLATE = """
 ╭───⌊ 💽 𝙰𝚕𝚋𝚞𝚖 𝚃𝚒𝚝𝚕𝚎: </b> {title}
